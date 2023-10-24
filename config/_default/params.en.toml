@@ -26,7 +26,7 @@
   rss = 10
   [home.profile]
     enable = true
-    avatarURL = "https://i.pinimg.com/564x/9f/b4/03/9fb403ca70758fcc66f6032d8eeb88c5.jpg"
+    avatarURL = "https://i.pinimg.com/564x/9f/63/22/9f6322f645f3901b7dc1f8803c13b83a.jpg"
     title = "d34d"
     subtitle = "Welcome..."
     typeit = true
