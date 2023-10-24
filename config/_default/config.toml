@@ -9,5 +9,8 @@ defaultTheme = "black"
 description = "D34DN37W0RK"
 keywords = ["TD34DN37W0RK", "d34d"]
 
-svgFavicon = "favicon.svg"
-favicon = "favicon.ico"
+[params.app]
+ title = "D34DN37W0RK"
+ noFavicon = false
+ iconColor = "#5bbad5"
+ tileColor = "#da532c"
