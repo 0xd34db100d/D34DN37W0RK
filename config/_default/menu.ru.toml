@@ -1,0 +1,41 @@
+
+[[main]]
+  identifier = "projects"
+  pre = ""
+  post = ""
+  name = "Проекты"
+  url = "projects/"
+  title = ""
+  weight = 1
+[[main]]
+  identifier = "music"
+  pre = ""
+  post = ""
+  name = "Музыка"
+  url = "music"
+  title = ""
+  weight = 2
+[[main]]
+  identifier = "posts"
+  pre = ""
+  post = ""
+  name = "Посты"
+  url = "posts/"
+  title = ""
+  weight = 3
+[[main]]
+  identifier = "tags"
+  pre = ""
+  post = ""
+  name = "Тэги"
+  url = "tags/"
+  title = ""
+  weight = 4
+[[main]]
+  identifier = "aboutme"
+  pre = ""
+  post = ""
+  name = "Про Меня"
+  url = "aboutme"
+  title = ""
+  weight = 5

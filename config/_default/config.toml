@@ -1,0 +1,13 @@
+baseURL = "https://0xd34db100d.github.io/D34DN37W0RK"
+defaultContentLanguage = "ru"
+theme = "DoIt"
+title = "D34DN37W0RK"
+
+[params]
+images = ["logo.png"]
+defaultTheme = "black"
+description = "D34DN37W0RK"
+keywords = ["TD34DN37W0RK", "d34d"]
+
+svgFavicon = "favicon.svg"
+favicon = "favicon.ico"

@@ -1,0 +1,11 @@
+# Multilingual config
+[en]
+  weight = 1
+  languageCode = "en"
+  languageName = "English"
+  hasCJKLanguage = false
+[ru]
+  weight = 2
+  languageCode = "ru"
+  languageName = "Русский"
+  hasCJKLanguage = false
