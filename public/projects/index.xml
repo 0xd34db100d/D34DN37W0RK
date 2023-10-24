@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on D34DN37W0RK</title>
+    <link>https://0xd34db100d.github.io/D34DN37W0RK/projects/</link>
+    <description>Recent content in Projects on D34DN37W0RK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 10 Apr 2023 15:30:59 +0500</lastBuildDate><atom:link href="https://0xd34db100d.github.io/D34DN37W0RK/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Winfix - Скрипт для исправления багов Windows 10/11</title>
+      <link>https://0xd34db100d.github.io/D34DN37W0RK/projects/winfix/</link>
+      <pubDate>Mon, 10 Apr 2023 15:30:59 +0500</pubDate>
+      
+      <guid>https://0xd34db100d.github.io/D34DN37W0RK/projects/winfix/</guid>
+      <description>Посмотреть на Github
+ФункцииДоступные на данный момент функции:
+Clipboard - исправление буфера обмена Windows 10/11 (ctrl + c | ctrl + v не работает)! Используйте &amp;ldquo;Winfix.exe clipboard&amp;rdquo; в cmd или нажмите на кнопку. Internet - очистка DNS-кэша Windows 10/11, обновление IP, сброс Winsock (проблемы с интернетом)! Используйте &amp;ldquo;Winfix.exe internet&amp;rdquo; в cmd или нажмите на кнопку. Explorer - перезапустите explorer.exe (ошибки рабочего стола)! Используйте &amp;ldquo;Winfix.exe explorer&amp;rdquo; в cmd или нажмите на кнопку.</description>
+    </item>
+    
+    <item>
+      <title>LogEraze - Скрипт для очистки логов Roblox</title>
+      <link>https://0xd34db100d.github.io/D34DN37W0RK/projects/logeraze/</link>
+      <pubDate>Thu, 10 Nov 2022 15:11:18 +0500</pubDate>
+      
+      <guid>https://0xd34db100d.github.io/D34DN37W0RK/projects/logeraze/</guid>
+      <description>Посмотреть на Github
+ФункцииДоступные на данный момент функции:
+Удалить логи Убить Roblox и удалить логи УстановкаСуществует два способа установки и использования данного скрипта: Скачать со страницы релизов и добавить его в переменные окружения. Установить все зависимости и запустить его с помощью Python 3. Установка зависимостей: pip install colorama psutil pyfiglet numpy readchar glob shutil Скриншоты Сделано с &amp;lt;3</description>
+    </item>
+    
+  </channel>
+</rss>

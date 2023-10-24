@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Blog - Tag - D34DN37W0RK</title>
+        <link>https://0xd34db100d.github.io/D34DN37W0RK/en/tags/blog/</link>
+        <description>Blog - Tag - D34DN37W0RK</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 24 Oct 2023 18:05:29 &#43;0500</lastBuildDate><atom:link href="https://0xd34db100d.github.io/D34DN37W0RK/en/tags/blog/" rel="self" type="application/rss+xml" /><item>
+    <title>First post :3</title>
+    <link>https://0xd34db100d.github.io/D34DN37W0RK/en/posts/first/</link>
+    <pubDate>Tue, 24 Oct 2023 18:05:29 &#43;0500</pubDate><author>
+        <name>d34d</name>
+    </author><guid>https://0xd34db100d.github.io/D34DN37W0RK/en/posts/first/</guid>
+    <description><![CDATA[I finally got this site done, yay. This is my first experience with hugo, will be adding features here.]]></description>
+</item></channel>
+</rss>

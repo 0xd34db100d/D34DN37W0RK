@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Windows 10/11 - Tag - D34DN37W0RK</title>
+        <link>https://0xd34db100d.github.io/D34DN37W0RK/en/tags/windows-10/11/</link>
+        <description>Windows 10/11 - Tag - D34DN37W0RK</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://0xd34db100d.github.io/D34DN37W0RK/en/tags/windows-10/11/" rel="self" type="application/rss+xml" /><item>
+    <title>Winfix - script for fixing Windows 10/11 bugs</title>
+    <link>https://0xd34db100d.github.io/D34DN37W0RK/en/projects/winfix/</link>
+    <pubDate>Mon, 10 Apr 2023 15:30:59 &#43;0500</pubDate><author>
+        <name>d34d</name>
+    </author><guid>https://0xd34db100d.github.io/D34DN37W0RK/en/projects/winfix/</guid>
+    <description><![CDATA[View on Github
+FunctionsCurrently supported fixes:
+Clipboard - fix Windows 10/11 clipboard (ctrl + c | ctrl + v not working)! Use &ldquo;Winfix.exe clipboard&rdquo; in cmd or click on button. Internet - clear Windows 10/11 DNS Cache, renew IP, reset Winsock (Internet problems)! Use &ldquo;Winfix.exe internet&rdquo; in cmd or click on button. Explorer - restart explorer.exe (Desktop bugs)! Use &ldquo;Winfix.exe explorer&rdquo; in cmd or click on button. In the future I plan to add even more fixes!]]></description>
+</item></channel>
+</rss>

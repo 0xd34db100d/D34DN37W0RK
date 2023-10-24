@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on D34DN37W0RK</title>
+    <link>https://0xd34db100d.github.io/D34DN37W0RK/en/projects/</link>
+    <description>Recent content in Projects on D34DN37W0RK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Apr 2023 15:30:59 +0500</lastBuildDate><atom:link href="https://0xd34db100d.github.io/D34DN37W0RK/en/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Winfix - script for fixing Windows 10/11 bugs</title>
+      <link>https://0xd34db100d.github.io/D34DN37W0RK/en/projects/winfix/</link>
+      <pubDate>Mon, 10 Apr 2023 15:30:59 +0500</pubDate>
+      
+      <guid>https://0xd34db100d.github.io/D34DN37W0RK/en/projects/winfix/</guid>
+      <description>View on Github
+FunctionsCurrently supported fixes:
+Clipboard - fix Windows 10/11 clipboard (ctrl + c | ctrl + v not working)! Use &amp;ldquo;Winfix.exe clipboard&amp;rdquo; in cmd or click on button. Internet - clear Windows 10/11 DNS Cache, renew IP, reset Winsock (Internet problems)! Use &amp;ldquo;Winfix.exe internet&amp;rdquo; in cmd or click on button. Explorer - restart explorer.exe (Desktop bugs)! Use &amp;ldquo;Winfix.exe explorer&amp;rdquo; in cmd or click on button. In the future I plan to add even more fixes!</description>
+    </item>
+    
+    <item>
+      <title>LogEraze - Script for clearing Roblox logs</title>
+      <link>https://0xd34db100d.github.io/D34DN37W0RK/en/projects/logeraze/</link>
+      <pubDate>Thu, 24 Nov 2022 15:11:18 +0500</pubDate>
+      
+      <guid>https://0xd34db100d.github.io/D34DN37W0RK/en/projects/logeraze/</guid>
+      <description>View on Github
+FunctionsCurrently available functions:
+Delete logs Kill Roblox and delete logs InstallingThere&amp;rsquo;s 2 ways how to install and use this script: Download from releases page and add it to environment variables. Install all dependencies and run it using python 3. dependencies installation: pip install colorama psutil pyfiglet numpy readchar glob shutil Screenshots made with &amp;lt;3</description>
+    </item>
+    
+  </channel>
+</rss>

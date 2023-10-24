@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Roblox - Tag - D34DN37W0RK</title>
+        <link>https://0xd34db100d.github.io/D34DN37W0RK/en/tags/roblox/</link>
+        <description>Roblox - Tag - D34DN37W0RK</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 24 Nov 2022 15:11:18 &#43;0500</lastBuildDate><atom:link href="https://0xd34db100d.github.io/D34DN37W0RK/en/tags/roblox/" rel="self" type="application/rss+xml" /><item>
+    <title>LogEraze - Script for clearing Roblox logs</title>
+    <link>https://0xd34db100d.github.io/D34DN37W0RK/en/projects/logeraze/</link>
+    <pubDate>Thu, 24 Nov 2022 15:11:18 &#43;0500</pubDate><author>
+        <name>d34d</name>
+    </author><guid>https://0xd34db100d.github.io/D34DN37W0RK/en/projects/logeraze/</guid>
+    <description><![CDATA[View on Github
+FunctionsCurrently available functions:
+Delete logs Kill Roblox and delete logs InstallingThere&rsquo;s 2 ways how to install and use this script: Download from releases page and add it to environment variables. Install all dependencies and run it using python 3. dependencies installation: pip install colorama psutil pyfiglet numpy readchar glob shutil Screenshots made with &lt;3]]></description>
+</item></channel>
+</rss>
