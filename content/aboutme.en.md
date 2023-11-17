@@ -10,4 +10,6 @@ Softwares and Tools: **Visual Studio Code, Visual Studio, FL Studio, Git, Github
 
 Discord: **euphoriafoxxo**
 
+Mail: **d34dcontact@mail.ru**
+
 I am currently in college majoring in process automation and play CTF's in my spare time :3
