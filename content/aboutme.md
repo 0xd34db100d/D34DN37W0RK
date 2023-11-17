@@ -8,6 +8,6 @@ title = 'Про Меня'
 
 Инструменты и ПО: **Visual Studio Code, Visual Studio, FL Studio, Git, Github, Roblox Studio, Linux**
 
-Дискорд: **0xd34db100d**
+Дискорд: **euphoriafoxxo**
 
 На данный момент я обучаюсь в колледже по специальности ОСАТП и в свободное время играю в CTF-ки :3

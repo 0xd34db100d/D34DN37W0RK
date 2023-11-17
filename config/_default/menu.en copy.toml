@@ -1,0 +1,49 @@
+
+[[main]]
+  identifier = "projects"
+  pre = ""
+  post = ""
+  name = "Projects"
+  url = "/projects/"
+  title = ""
+  weight = 1
+[[main]]
+  identifier = "music"
+  pre = ""
+  post = ""
+  name = "Music"
+  url = "/music"
+  title = ""
+  weight = 2
+[[main]]
+  identifier = "posts"
+  pre = ""
+  post = ""
+  name = "Posts"
+  url = "/posts/"
+  title = ""
+  weight = 3
+[[main]]
+  identifier = "tags"
+  pre = ""
+  post = ""
+  name = "Tags"
+  url = "/tags/"
+  title = ""
+  weight = 4
+[[main]]
+  identifier = "authors"
+  pre = ""
+  post = ""
+  name = "Authors"
+  url = "/authors/"
+  title = ""
+  weight = 5
+[[main]]
+  identifier = "aboutme"
+  pre = ""
+  post = ""
+  name = "About Me"
+  url = "/aboutme"
+  title = ""
+  weight = 6
